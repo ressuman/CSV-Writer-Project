@@ -1,0 +1,11 @@
+id,name,salary,role
+1,George,50000,Web Developer
+2,Rose,60000,Digital Manager
+3,Pearl,100000,Designer
+4,Mavis,20000,Product Manager
+5,Ann,400000,CEOid,name,salary,role
+1,George,50000,Web Developer
+2,Rose,60000,Digital Manager
+3,Pearl,100000,Designer
+4,Mavis,20000,Product Manager
+5,Ann,400000,CEO
